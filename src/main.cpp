@@ -1,15 +1,8 @@
-#include <cstdint>
+
 #include <iostream>
-#include <math.h>
-#include <memory>
 
-#include "BitmapFileHeader.h"
-#include "BitmapInfoHeader.h"
 
-#include "Bitmap.h"
-#include "Mandelbrot.h"
-#include "Zoom.h"
-#include "FractalBitmap.h"
+#include <FractalBitmap.h>
 
 int main(int argc, char *argv[])  {
   if (argc != 4) {

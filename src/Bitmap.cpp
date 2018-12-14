@@ -1,9 +1,9 @@
 #include <iostream>
 #include <fstream>
 
-#include "Bitmap.h"
-#include "BitmapInfoHeader.h"
-#include "BitmapFileHeader.h"
+#include <Bitmap.h>
+#include <BitmapInfoHeader.h>
+#include <BitmapFileHeader.h>
 
 namespace bitmap  {
 

@@ -1,9 +1,12 @@
 #pragma once
 
+#include <cstdint>
 #include <iostream>
+#include <math.h>
+#include <memory>
 
-#include "FractalBitmap.h"
-#include "Mandelbrot.h"
+#include <FractalBitmap.h>
+#include <Mandelbrot.h>
 
 namespace bitmap    {
 

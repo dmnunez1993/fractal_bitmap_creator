@@ -1,7 +1,7 @@
 #include <complex>
 #include <iostream>
 
-#include "Mandelbrot.h"
+#include <Mandelbrot.h>
 
 namespace bitmap    {
 

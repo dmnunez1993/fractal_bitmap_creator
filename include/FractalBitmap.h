@@ -2,8 +2,8 @@
 
 #include<string>
 
-#include "Bitmap.h"
-#include "Zoom.h"
+#include <Bitmap.h>
+#include <Zoom.h>
 
 namespace bitmap    {
 
