@@ -1,0 +1,17 @@
+# IDE
+**/.vscode
+
+# CMake
+build
+tags
+cmake_install.cmake
+**/CMakeFiles/
+**/CMakeCache.txt
+**/Makefile
+**/CTestTestfile.cmake
+
+# Build
+*.a
+bin/
+
+*_autogen/
