@@ -9,7 +9,7 @@ cmake .
 cmake --build .
 ```
 
-# Execute
+## Execute
 
 In the repository root, run the following:
 
